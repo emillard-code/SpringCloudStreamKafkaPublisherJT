@@ -3,4 +3,4 @@ spring:
     stream:
       bindings:
         output:
-          destination: javatechie-stream
+          destination: spring-cloud-kafka-binder
